@@ -24,7 +24,6 @@ height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
 
-
 }
 .cartao__conteudo h3 {
 color: var(--text-color);
@@ -48,6 +47,7 @@ transition: transform 300ms ease-in-out;
 margin-top: 1rem;
 padding: 2rem;
 margin-top: 4rem;
+font-size:1.4vw;
 }
 .cartao__conteudo__pergunta p{
 color: var(--text-color);
