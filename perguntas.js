@@ -16,7 +16,7 @@ criaCartao(
     'caiu'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Por quantos anos a tartaruga vive?',
+    '80 a 100 anos'
 )
